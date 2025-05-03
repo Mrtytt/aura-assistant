@@ -7,10 +7,10 @@ from tkinter import scrolledtext
 # Başlangıç dizini
 current_dir = os.getcwd()
 
-def aura_open(app):
+def aura_open(app_path):
     try:
-        subprocess.Popen(app)
-        return f"{app} açılıyor..."
+        os.startfile(app_path)
+        return f"{app_path} açılıyor..."
     except Exception as e:
         return f"Hata: {e}"
 
@@ -139,7 +139,7 @@ def handle_command():
     result = ""
 
     if lower.startswith("open"):
-        result = aura_open(komut.replace("open ", "", 1))
+        result = aura_open(komut.replace("open ","", 1))
 
     elif lower.startswith("create file"):
         try:
