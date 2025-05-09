@@ -1,0 +1,101 @@
+text,label
+open Google Chrome,open_browser
+launch the browser,open_browser
+start Chrome,open_browser
+go to internet,open_browser
+open Firefox,open_browser
+run the browser,open_browser
+launch internet browser,open_browser
+start the web browser,open_browser
+I want to browse the web,open_browser
+get me online,open_browser
+open the calculator,open_calculator
+start calculator,open_calculator
+launch calculator,open_calculator
+run calculator,open_calculator
+I need to calculate,open_calculator
+bring up calculator,open_calculator
+do some calculations,open_calculator
+show me the calculator,open_calculator
+calculate something,open_calculator
+start calc,open_calculator
+what time is it,get_time
+tell me the time,get_time
+what’s the current time,get_time
+current time please,get_time
+can you give me the time,get_time
+I need the time,get_time
+check the time,get_time
+show me the time,get_time
+do you know the time,get_time
+what is the time now,get_time
+what day is it,get_date
+tell me the date,get_date
+what's the date today,get_date
+give me today's date,get_date
+which day is it,get_date
+show me the date,get_date
+current date please,get_date
+do you know the date,get_date
+what is today's date,get_date
+tell me the day,get_date
+search for Python tutorials,search_web
+look up weather in Paris,search_web
+find nearby restaurants,search_web
+search the web,search_web
+Google machine learning,search_web
+search something for me,search_web
+look for latest news,search_web
+search online,search_web
+look this up,search_web
+find me some info,search_web
+play some music,play_music
+start the music,play_music
+play a song,play_music
+I want to hear music,play_music
+launch music player,play_music
+play rock music,play_music
+turn on music,play_music
+put on some tunes,play_music
+play Spotify,play_music
+begin music playback,play_music
+open notepad,open_notepad
+start notepad,open_notepad
+launch notepad,open_notepad
+write something,open_notepad
+open a text editor,open_notepad
+start writing,open_notepad
+bring up notepad,open_notepad
+launch text editor,open_notepad
+create a new note,open_notepad
+jot down something,open_notepad
+shut down the computer,shutdown
+turn off the system,shutdown
+shutdown now,shutdown
+power off the computer,shutdown
+initiate shutdown,shutdown
+turn off,shutdown
+close everything,shutdown
+stop the machine,shutdown
+I want to shut down,shutdown
+execute shutdown,shutdown
+restart the computer,restart
+reboot the system,restart
+relaunch the PC,restart
+start over the computer,restart
+do a restart,restart
+restart now,restart
+reboot now,restart
+I want to restart,restart
+perform a reboot,restart
+initiate restart,restart
+exit the assistant,exit
+quit now,exit
+close the app,exit
+terminate assistant,exit
+stop listening,exit
+shut down assistant,exit
+I want to quit,exit
+stop the program,exit
+end assistant,exit
+turn off assistant,exit
